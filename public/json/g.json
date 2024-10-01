@@ -1654,5 +1654,11 @@
 		"url": "https://games.crazygames.com/en_US/crazy-for-speed/index.html?v=1.295",
 		"img": "/assets/imgs/g/Crazy_for_Speed.webp",
 		"categories": ["all"]
+	},
+	{
+		"name": "Flip-O",
+		"url": "https://abagames.github.io/crisp-game-lib-games/?flipo",
+		"img": "file:///home/chronos/u-ced8f50d882ddf6fb92b061d3f495d6cf8dd2ed0/MyFiles/Downloads/flip-o-game.webp",
+		"categories": ["all"]
 	}
 ]
